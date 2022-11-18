@@ -4,7 +4,7 @@
   "description": "Api para simular imobiliaria",
   "main": "app.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --port 3013 --routes routes.json --watch db.json"
   },
   "repository": {
     "type": "git",
