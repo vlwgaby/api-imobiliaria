@@ -1,0 +1,76 @@
+{
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "Gaby França",
+      "cpf": "123.321.456-13",
+      "salario": "4000"
+    },
+    {
+      "id": 2,
+      "nome": "Gustavo Aquino",
+      "cpf": "321.132.321-13",
+      "salario": "4000"
+    },
+    {
+      "id": 3,
+      "nome": "Isabelle Araujo",
+      "cpf": "421.123.543-14",
+      "salario": "3500"
+    },
+    {
+      "id": 4,
+      "nome": "Beatriz Poncio",
+      "cpf": "897.435.321-15",
+      "salario": "3500"
+    }
+  ],
+  "inquilino": [
+    {
+      "id": 1,
+      "nome": "José Bonifácio",
+      "imovel": 4,
+      "aluguel": "900"
+    },
+    {
+      "id": 2,
+      "nome": "Ytallo Cleiton",
+      "imovel": 1,
+      "aluguel": "1500"
+    },
+    {
+      "id": 3,
+      "nome": "Luis Inacio",
+      "imovel": 2,
+      "aluguel": "1800"
+    },
+    {
+      "id": 4,
+      "nome": "Messias Salnor Abo",
+      "imovel": 3,
+      "aluguel": "25000"
+    }
+  ],
+  "imovel": [
+    {
+      "id": 1,
+      "valor_aluguel": "1500",
+      "foto": "https://img-us-1.trovit.com/img1br/oz1u1be1o1_t/oz1u1be1o1_t.1_11.jpg"
+    },
+    {
+      "id": 2,
+      "valor_aluguel": "1800",
+      "foto": "https://tecnoartengenharia.com.br/wp-content/uploads/2021/12/apartamentoduplex2.jpeg"
+    },
+    {
+      "id": 3,
+      "valor_aluguel": "25000",
+      "foto": "https://media-sa.viva-images.com/vivastreet_br/clad/296705920/vip2x/casas-6-su-tes-de-luxo-frente-ao-mar-em-angra-dos-reis-202209261752311664225551168492-0.jpg"
+    },
+    {
+      "id": 4,
+      "valor_aluguel": "1500",
+      "foto": "https://s2.glbimg.com/wR_oq3GtI-S3po0kaF4bXuRntDw=/512x320/smart/e.glbimg.com/og/ed/f/original/2016/08/05/apartamento-studio-37-03.jpg"
+    }
+  ]
+}
